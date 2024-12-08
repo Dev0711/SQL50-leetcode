@@ -12,10 +12,15 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dev0711/SQL50-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0792-binary-search](https://github.com/Dev0711/SQL50-leetcode/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dev0711/SQL50-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Dev0711/SQL50-leetcode/tree/master/0792-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dev0711/SQL50-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
