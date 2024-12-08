@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Dev0711/SQL50-leetcode/tree/master/0792-binary-search) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dev0711/SQL50-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
